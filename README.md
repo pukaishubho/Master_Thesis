@@ -1,0 +1,3 @@
+# Master_Thesis
+Excited-state anthracene (AN) undergoes photodimerization but does not form excimer in organic solvents.  However, when encapsulated by water-soluble octa-acid, AN dimer has been reported to show excimer emission. Herein, we employ a hybrid Quantum Mechanics/Molecular Mechanics (QM/MM) approach to look into the mechanism of excimer formation. Using DFT to model the QM part and AMBER03
+force-field to model MM part we have mapped the potential energy curve along three degrees of freedom with QM/MM-TDDFT. Transition density matrix elements and natural transition orbitals were plotted to characterize the charge transfer (CT) and Local transitions. Our calculations show how encapsulation helps in excimer formation.
